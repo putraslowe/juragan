@@ -1,0 +1,2 @@
+# juragan
+ini cuma testnet
